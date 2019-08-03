@@ -1,0 +1,11 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1"
+  }
+}
